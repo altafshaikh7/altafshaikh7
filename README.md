@@ -1,5 +1,5 @@
 
-<!-- ============== INTRO / EDITORIAL HEADER ============== --
+<!-- ============== INTRO / EDITORIAL HEADER ============== -->
 
 <div align="center">
 
