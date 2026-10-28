@@ -1,152 +1,223 @@
-<!-- 🌊 ANIMATED WAVE HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Altaf%20Shaikh&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
-
-<!-- ⌨️ TYPING ANIMATION -->
+<!-- ============== INTRO / EDITORIAL HEADER ============== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Backend+Architecture+Enthusiast;DSA+in+Java;Machine+Learning+Explorer;Microservices+Learner;Building+Scalable+Apps" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=BC9A63" alt="Gold accent"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1200&color=BC9A63&center=true&vCenter=true&width=550&lines=ENGINEERING+WITH+INTENTION;LEARNING+WITHOUT+LIMITS;BUILDING+ONE+STEP+AT+A+TIME" alt="Personal motto"/>
+
+# ALTAF SHAIKH
+
+### Software Developer · Problem Solver · Lifelong Learner
+
+*Computer Science & Engineering Student*
+
+<br/>
+
+<a href="https://github.com/altafshaikh7">
+<img src="https://img.shields.io/badge/GitHub-161616?style=flat-square&logo=github&logoColor=BC9A63" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/altafshaikh7781">
+<img src="https://img.shields.io/badge/LinkedIn-161616?style=flat-square&logo=linkedin&logoColor=BC9A63" alt="LinkedIn"/>
+</a>
+<a href="mailto:altafshaikh07781@gmail.com">
+<img src="https://img.shields.io/badge/Email-161616?style=flat-square&logo=gmail&logoColor=BC9A63" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=BC9A63" width="70%" alt="Section divider"/>
+
 </div>
 
+<!-- ============== PERSONAL PHILOSOPHY ============== -->
+
+## 01 — The Philosophy
+
+> "Great things are done by a series of small things brought together."
+>
+> — Vincent van Gogh
+
+I believe good software comes from understanding problems deeply, building thoughtfully, and improving consistently.
+
+I'm a Computer Science and Engineering student interested in full-stack development, backend engineering, and practical AI applications. I enjoy exploring how things work, learning from mistakes, and turning ideas into working software.
+
+My goal is simple: **become an engineer who can solve meaningful problems and build software people can rely on.**
+
+---
+
+## 02 — The Engineering Desk
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01. BUILD`
+
+Developing full-stack applications with a focus on usable interfaces, maintainable code, and practical functionality.
+
+**Focus**
+- React applications
+- REST API development
+- Authentication and data management
+- Application architecture
+
+</td>
+<td width="50%" valign="top">
+
+### `02. EXPLORE`
+
+Learning the fundamentals behind modern software and intelligent applications.
+
+**Focus**
+- Data Structures & Algorithms in Java
+- Backend and system design
+- Machine Learning fundamentals
+- AI-powered applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 — The Toolkit
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" alt="JavaScript, TypeScript, Java, Python"/>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap,figma&theme=dark" alt="React, Vite, HTML, CSS, Tailwind, Bootstrap, Figma"/>
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB"/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" alt="Git, GitHub, VS Code, Postman, Linux, Docker"/>
+
+</div>
+
+<sub>Technologies represent a mix of hands-on experience and ongoing learning. Proficiency varies by tool.</sub>
+
+---
+
+## 04 — The Learning Curve
+
+> "It always seems impossible until it's done."
+>
+> — Nelson Mandela
+
+My current priorities are to strengthen fundamentals and become better at designing, building, and debugging software.
+
+- [x] Build full-stack applications
+- [x] Explore AI-powered solutions
+- [ ] Improve problem-solving with Java
+- [ ] Deepen backend engineering knowledge
+- [ ] Understand system design fundamentals
+- [ ] Write more reliable, maintainable software
+
+---
+
+## 05 — Milestones
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**SMART INDIA HACKATHON 2025**
+
+Finalist · Team Bhaskara
+
+A team-based national hackathon experience focused on developing a solution to a real-world problem.
+
+</td>
+<td width="50%" valign="top">
+
+**GOOGLE STUDENT AMBASSADOR 2026**
+
+Team Gemini
+
+Student community participation and engagement with Google's developer ecosystem.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 06 — The Consistency Report
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=altafshaikh7&show_icons=true&hide_border=true&bg_color=111318&title_color=BC9A63&icon_color=BC9A63&text_color=E6E1D8&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altafshaikh7&layout=compact&hide_border=true&bg_color=111318&title_color=BC9A63&text_color=E6E1D8&langs_count=6" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=altafshaikh7&theme=dark&hide_border=true&background=111318&ring=BC9A63&fire=BC9A63&currStreakLabel=BC9A63&sideLabels=E6E1D8&dates=929292" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=altafshaikh7&bg_color=111318&color=BC9A63&line=BC9A63&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity"/>
+
+</div>
+
+---
+
+## 07 — Notes to Self
+
+<div align="center">
+
+> "Great things are done by a series of small things brought together."
+>
+> — Vincent van Gogh
+
 <br/>
 
-<!-- 👋 INTRO -->
+**CONSISTENCY > INTENSITY**
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  Hi, I'm Altaf Shaikh
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h2>
+**FUNDAMENTALS > SHORTCUTS**
 
-<p align="center">
-  <b>
-    Building scalable web apps • Learning system design • Solving DSA in Java • Exploring Machine Learning
-  </b>
-</p>
+**PROGRESS > PERFECTION**
 
 <br/>
 
-<!-- 🔗 SOCIAL LINKS -->
+*Learn deliberately. Build patiently. Improve continuously.*
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/altafshaikh7781" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:altafshaikh07781@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/er.altaf_shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/altafshaikh7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<br/>
+---
 
-<!-- 💎 FOCUS BADGES -->
+## 08 — Find Me Here
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Focus-Building_Scalable_Systems-0f2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Code-Clean_Architecture-2c5364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Goal-Top_1%25_Developer-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_Learning-Microservices-203a43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_Learning-Machine_Learning-203a43?style=for-the-badge" />
-</p>
+<div align="center">
 
-<br/>
+<a href="https://github.com/altafshaikh7">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-BC9A63?style=for-the-badge&logo=github&logoColor=111318" alt="Explore GitHub"/>
+</a>
 
-<!-- 📊 GITHUB STATS -->
+<a href="https://www.linkedin.com/in/altafshaikh7781">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-222222?style=for-the-badge&logo=linkedin&logoColor=BC9A63" alt="Connect on LinkedIn"/>
+</a>
 
-<h2 align="center">
-  GitHub Stats
-</h2>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=altafshaikh7&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=altafshaikh7&style=flat-square&color=BC9A63&label=PROFILE+VISITS" alt="Profile views"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altafshaikh7&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
-</p>
+<br/><br/>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:BC9A63,50:34302A,100:111318" alt="Footer"/>
 
-<!-- 🛠️ TECH STACK -->
+<sub>Designed with intention · Built with curiosity · Improved with consistency</sub>
 
-<h2 align="center"> Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts,java,spring,git,docker,postgres,redis,aws,linux,vscode&theme=dark" />
-</p>
-
-<br/>
-
-<!-- 🤖 MACHINE LEARNING -->
-
-<h2 align="center"> Machine Learning & Data Science</h2>
-
-<p align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-  <!-- ML -->
-
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supervised%20Learning-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-203a43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regression-2c5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clustering-203a43?style=for-the-badge"/>
-
-  <!-- Feature Engineering -->
-
-  <img src="https://img.shields.io/badge/Feature%20Engineering-2c5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature%20Selection-203a43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scaling%20%26%20Encoding-2c5364?style=for-the-badge"/>
-
-  <!-- Models -->
-
-  <img src="https://img.shields.io/badge/Linear%20Regression-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Logistic%20Regression-203a43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Decision%20Tree-2c5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Random%20Forest-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KNN-203a43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SVM-2c5364?style=for-the-badge"/>
-
-  <!-- Advanced -->
-
-  <img src="https://img.shields.io/badge/Model%20Evaluation-0f2027?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cross%20Validation-203a43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-2c5364?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GridSearchCV-0f2027?style=for-the-badge"/>
-</p>
-
-
-<!-- 📊 PROFILE SUMMARY -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=altafshaikh7&theme=tokyonight" />
-</p>
-
-<br/>
-
-<!-- 👀 VISITOR COUNTER -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altafshaikh7&label=Profile%20Views&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/github/followers/altafshaikh7?label=Followers&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/github/stars/altafshaikh7?label=Stars&style=for-the-badge&color=00F7FF" />
-</p>
-
-<br/>
-
-<!-- 🌊 FOOTER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+</div>
