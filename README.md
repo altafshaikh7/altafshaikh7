@@ -1,7 +1,7 @@
 
 <!-- ============== INTRO / EDITORIAL HEADER ============== -->
 
-<div align="center">
+<div align="center"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=BC9A63" alt="Gold accent"/>
 
